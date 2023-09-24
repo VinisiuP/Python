@@ -1,0 +1,4 @@
+Alice : 7
+Breno : 1
+Vinicius : 10
+Rodrygo : 9 
